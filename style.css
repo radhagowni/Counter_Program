@@ -5,9 +5,12 @@
     font-size: 10em;
     font-family: Melventica;
 }
-#btnContainer{
+
+#btnContainer
+{
 text-align: center;
 }
+
 .buttons{
     padding:10px 20px;
     font-size: 1.5em;
