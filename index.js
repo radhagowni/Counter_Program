@@ -4,6 +4,7 @@ const resetBtn=document.getElementById("resetBtn");
 const increaseBtn=document.getElementById("increaseBtn");
 const countLabel=document.getElementById("countLabel");
 let count=0;
+// this is for increaseBtn button 
 increaseBtn.onclick=function()
 {
     count++;
